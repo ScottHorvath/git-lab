@@ -1,7 +1,7 @@
 1. git version 2.43.0
 2. user.name=ScottHorvath
 user.email=sh059825@ohio.edu
-3. It displays the common git commands and what they do
+3. It displays the common git commands. It puts these commands in a table and displays a quick explaination of what each command does.
 4. It is showing to red untracked files
 5. Now README is tracked but answers isn't
 6. Now both files are tracked and green
